@@ -1,0 +1,17 @@
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Infrastructure.deps.json
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Infrastructure.runtimeconfig.json
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Infrastructure.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Infrastructure.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Domain.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\bin\Debug\net8.0\WeatherReport.Domain.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.csproj.AssemblyReference.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.AssemblyInfoInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.AssemblyInfo.cs
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.csproj.CopyComplete
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\refint\WeatherReport.Infrastructure.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\WeatherReport.Infrastructure.genruntimeconfig.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Infrastructure\obj\Debug\net8.0\ref\WeatherReport.Infrastructure.dll

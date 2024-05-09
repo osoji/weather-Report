@@ -1,0 +1,11 @@
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\bin\Debug\net8.0\WeatherReport.Common.deps.json
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\bin\Debug\net8.0\WeatherReport.Common.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\bin\Debug\net8.0\WeatherReport.Common.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.AssemblyInfoInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.AssemblyInfo.cs
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.csproj.CoreCompileInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\refint\WeatherReport.Common.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\WeatherReport.Common.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Common\obj\Debug\net8.0\ref\WeatherReport.Common.dll

@@ -1,0 +1,11 @@
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\bin\Debug\net8.0\WeatherReport.Domain.deps.json
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\bin\Debug\net8.0\WeatherReport.Domain.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\bin\Debug\net8.0\WeatherReport.Domain.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.AssemblyInfoInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.AssemblyInfo.cs
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.csproj.CoreCompileInputs.cache
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\refint\WeatherReport.Domain.dll
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\WeatherReport.Domain.pdb
+D:\Hands-on-Interview\WeatherReport\WeatherReport.Domain\obj\Debug\net8.0\ref\WeatherReport.Domain.dll
